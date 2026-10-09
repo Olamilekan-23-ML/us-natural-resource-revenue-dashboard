@@ -54,9 +54,10 @@ Version Control & Hosting: GitHub
 ---
 
 ## 🚀 How to View & Use
-Dataset: Extract data/cleaned_monthly_revenue.zip to access the processed dataset.
 
+Dataset: Extract data/cleaned_monthly_revenue.zip to access the processed dataset.
 Dashboard: Open reports/US_Natural_Resource_Revenue_Dashboard.pbix in Power BI Desktop to interact with the full dashboard.
+
 ---
 ## 👨‍💻 Author & Contact
 Dogo Paul Olamilekan
