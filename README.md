@@ -27,8 +27,6 @@ This project processes public revenue data to deliver actionable insights into n
 ---
 
 ## 📂 Project Structure
-
-```text
 us-natural-resource-revenue-dashboard/
 │
 ├── data/
@@ -43,3 +41,24 @@ us-natural-resource-revenue-dashboard/
 │   └── dashboard_preview.png             # Dashboard screenshot
 │
 └── README.md                             # Project documentation
+
+---
+## 🛠️ Tech Stack & Tools
+Data Cleaning & ETL: Python (pandas)
+
+Business Intelligence: Power BI Desktop, DAX, Power Query
+
+Version Control & Hosting: GitHub
+---
+
+## 🚀 How to View & Use
+Dataset: Extract data/cleaned_monthly_revenue.zip to access the processed dataset.
+
+Dashboard: Open reports/US_Natural_Resource_Revenue_Dashboard.pbix in Power BI Desktop to interact with the full dashboard.
+---
+## 👨‍💻 Author & Contact
+Dogo Paul Olamilekan
+
+LinkedIn: linkedin.com/in/dogo-paul-02b692367
+
+Email: dogopaul2007@gmail.com
