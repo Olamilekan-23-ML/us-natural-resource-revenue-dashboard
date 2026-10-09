@@ -27,6 +27,7 @@ This project processes public revenue data to deliver actionable insights into n
 ---
 
 ## 📂 Project Structure
+```text
 us-natural-resource-revenue-dashboard/
 │
 ├── data/
@@ -42,6 +43,7 @@ us-natural-resource-revenue-dashboard/
 │
 └── README.md                             # Project documentation
 
+```
 ---
 ## 🛠️ Tech Stack & Tools
 Data Cleaning & ETL: Python (pandas)
